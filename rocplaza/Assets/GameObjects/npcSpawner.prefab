@@ -43,5 +43,38 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 505415827e17b40d3bdd413fb850f99b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  npc: {fileID: 1159381725462414464, guid: d260caa2c34764390b2dcb4d8a584151, type: 3}
+  npc: {fileID: 4697345019428507167, guid: a3763f7371b44456eae266096997051e, type: 3}
   spawnRate: 1
+  headSpr:
+  - {fileID: 21300000, guid: 170324b37d4f24378a1400e961d0de52, type: 3}
+  - {fileID: 21300000, guid: 36730b3a66a8043bf8c7be406262671b, type: 3}
+  - {fileID: 21300000, guid: 36730b3a66a8043bf8c7be406262671b, type: 3}
+  - {fileID: 21300000, guid: fb7af3224dd3c4c99a0578c8b5cd8748, type: 3}
+  - {fileID: 21300000, guid: d46f4594a303a40bb8f94557337d829e, type: 3}
+  - {fileID: 21300000, guid: 3c6ae363a89a9445bae84f699097d78e, type: 3}
+  - {fileID: 21300000, guid: 0d59a1c62847d4803a96eec51beeb7f0, type: 3}
+  - {fileID: 21300000, guid: beee4377cea7d4bd5b2de617688c9f8f, type: 3}
+  - {fileID: 21300000, guid: 4a819a06fddbe4b1ab068441bb626b61, type: 3}
+  - {fileID: 21300000, guid: 170324b37d4f24378a1400e961d0de52, type: 3}
+  - {fileID: 21300000, guid: 170324b37d4f24378a1400e961d0de52, type: 3}
+  - {fileID: 21300000, guid: 989eb05d8cb0d47e082dcf6f5eab470b, type: 3}
+  - {fileID: 21300000, guid: 989eb05d8cb0d47e082dcf6f5eab470b, type: 3}
+  - {fileID: 0}
+  legsSpr:
+  - {fileID: 21300000, guid: 0285245a3ef294d92868c76b8d14c083, type: 3}
+  - {fileID: 21300000, guid: 26d4e1c8bd0484a32aea00fc4385c7cb, type: 3}
+  - {fileID: 21300000, guid: 969386abd9df245fb89dac90b6fa83fe, type: 3}
+  - {fileID: 21300000, guid: e803f339d7e834cdb80bf9444e2413f4, type: 3}
+  - {fileID: 0}
+  upperBodySpr:
+  - {fileID: 21300000, guid: 3c58d16cd2ecf4befb61fb6c1b8c42e2, type: 3}
+  - {fileID: 21300000, guid: 829257895987c487a9c2d7c7033b0084, type: 3}
+  - {fileID: 21300000, guid: bae098d61ebc4434286466714177c6e6, type: 3}
+  - {fileID: 21300000, guid: 138a826dbec1c4f7ca9e6f932bafb930, type: 3}
+  - {fileID: 21300000, guid: c751fb1eaa10d4be9ada86f9694ecaed, type: 3}
+  skinSpr:
+  - {fileID: 21300000, guid: 509c240933e0041d99587fd25b973631, type: 3}
+  - {fileID: 21300000, guid: 582ae2f2a794b4e7291f201a5437c6b1, type: 3}
+  - {fileID: 21300000, guid: 2b02e7de3a3784be3822c3e280eb422b, type: 3}
+  - {fileID: 21300000, guid: 6ccdcc87daa964a30ba1a90c39bd81ea, type: 3}
+  - {fileID: 21300000, guid: 694c43d8fd8444d5382baa1d8b0736a6, type: 3}
